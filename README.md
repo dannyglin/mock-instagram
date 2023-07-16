@@ -51,9 +51,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/JPwpWzCkkt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-http://g.recordit.co/JPwpWzCkkt.gif
-
-Below is the added Login feature missing from the first gif
-
-<img src='http://g.recordit.co/rCxfpSnMo0.gif' title='Login Walkthrough' width='' alt='Login Walkthrough' />
+<img src='https://recordit.co/SwvZnFd0do?fbclid=IwAR1xECTUXg3qaAE1ZJIuqRYP5nrQEKnUDskmaIoAuDxrRXIO0eNcykoZ3BE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
